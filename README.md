@@ -48,7 +48,7 @@ This project simulates a real-world scenario where an energy data company uses m
 
 ## 📊 Model Interpretation
 
-![SHAP Summary](outputs/lead_shap.png)
+![SHAP Summary](./lead_shap.png)
 
 ---
 
